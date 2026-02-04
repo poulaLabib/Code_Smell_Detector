@@ -1,0 +1,14 @@
+file_path,class_name,package,LOC,WMC,METHODS,FIELDS,PRIVATE_METHODS,CBO,DIT,LCOM,TCC,ATFD,MAX_METHOD_LOC,NOC,project
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\hibernate-sim\src\main\java\hibernate\v1\FactoryHibernate4.java,FactoryHibernate4,hibernate.v1,12,4,4,1,0,5,0,3,3,0,3,1,hibernate-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\hibernate-sim\src\main\java\hibernate\v1\ResolverHibernate2.java,ResolverHibernate2,hibernate.v1,12,4,4,1,0,5,0,3,3,0,3,1,hibernate-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\hibernate-sim\src\main\java\hibernate\v2\ConverterHibernate7.java,ConverterHibernate7,hibernate.v2,19,1,1,1,0,3,0,0,1,13,14,1,hibernate-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\hibernate-sim\src\main\java\hibernate\v2\OrchestratorHibernate10.java,OrchestratorHibernate10,hibernate.v2,12,4,4,1,0,5,0,3,3,0,3,1,hibernate-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\hibernate-sim\src\main\java\hibernate\v3\CalculatorHibernate3.java,CalculatorHibernate3,hibernate.v3,70,1,1,0,0,2,0,0,0,0,67,1,hibernate-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\hibernate-sim\src\main\java\hibernate\v3\ConverterHibernate1.java,ConverterHibernate1,hibernate.v3,42,26,26,13,0,2,0,13,0,0,1,1,hibernate-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\hibernate-sim\src\main\java\hibernate\v3\ExecutorHibernate8.java,ExecutorHibernate8,hibernate.v3,12,4,4,1,0,5,0,3,3,0,3,1,hibernate-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\hibernate-sim\src\main\java\hibernate\v3\FactoryHibernate12.java,FactoryHibernate12,hibernate.v3,158,18,18,18,0,2,0,0,0,0,10,1,hibernate-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\hibernate-sim\src\main\java\hibernate\v3\FormatterHibernate6.java,FormatterHibernate6,hibernate.v3,155,16,16,26,0,2,0,0,0,0,10,1,hibernate-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\hibernate-sim\src\main\java\hibernate\v3\ManagerHibernate11.java,ManagerHibernate11,hibernate.v3,24,14,14,7,0,2,0,7,0,0,1,1,hibernate-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\hibernate-sim\src\main\java\hibernate\v3\ResolverHibernate9.java,ResolverHibernate9,hibernate.v3,36,22,22,11,0,2,0,11,0,0,1,1,hibernate-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\hibernate-sim\src\main\java\hibernate\v3\SchedulerHibernate0.java,SchedulerHibernate0,hibernate.v3,33,20,20,10,0,2,0,10,0,0,1,1,hibernate-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\hibernate-sim\src\main\java\hibernate\v3\ValidatorHibernate5.java,ValidatorHibernate5,hibernate.v3,17,1,1,1,0,3,0,0,1,11,12,1,hibernate-sim

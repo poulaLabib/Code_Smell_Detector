@@ -1,0 +1,17 @@
+file_path,class_name,package,LOC,WMC,METHODS,FIELDS,PRIVATE_METHODS,CBO,DIT,LCOM,TCC,ATFD,MAX_METHOD_LOC,NOC,project
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v1\AnalyzerTomcat12.java,AnalyzerTomcat12,tomcat.v1,83,1,1,0,0,2,0,0,0,0,80,1,tomcat-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v1\AnalyzerTomcat5.java,AnalyzerTomcat5,tomcat.v1,17,1,1,1,0,3,0,0,1,11,12,1,tomcat-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v1\ExecutorTomcat6.java,ExecutorTomcat6,tomcat.v1,67,1,1,0,0,2,0,0,0,0,64,1,tomcat-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v1\HandlerTomcat7.java,HandlerTomcat7,tomcat.v1,81,1,1,0,0,2,0,0,0,0,78,1,tomcat-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v1\ManagerTomcat3.java,ManagerTomcat3,tomcat.v1,15,1,1,1,0,3,0,0,1,9,10,1,tomcat-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v1\OrchestratorTomcat15.java,OrchestratorTomcat15,tomcat.v1,12,4,4,1,0,5,0,3,3,0,3,1,tomcat-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v1\OrchestratorTomcat8.java,OrchestratorTomcat8,tomcat.v1,12,4,4,1,0,5,0,3,3,0,3,1,tomcat-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v1\ProcessorTomcat14.java,ProcessorTomcat14,tomcat.v1,18,1,1,1,0,3,0,0,1,12,13,1,tomcat-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v1\RegistryTomcat9.java,RegistryTomcat9,tomcat.v1,12,4,4,1,0,5,0,3,3,0,3,1,tomcat-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v1\SchedulerTomcat1.java,SchedulerTomcat1,tomcat.v1,30,7,7,0,6,3,0,0,1,0,4,1,tomcat-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v2\ApplicationTomcat10.java,ApplicationTomcat10,tomcat.v2,15,1,1,1,0,3,0,0,1,9,10,1,tomcat-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v2\ApplicationTomcat2.java,ApplicationTomcat2,tomcat.v2,64,1,1,0,0,2,0,0,0,0,61,1,tomcat-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v2\FormatterTomcat4.java,FormatterTomcat4,tomcat.v2,39,24,24,12,0,2,0,12,0,0,1,1,tomcat-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v2\TransformerTomcat13.java,TransformerTomcat13,tomcat.v2,77,1,1,0,0,2,0,0,0,0,74,1,tomcat-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v3\FactoryTomcat0.java,FactoryTomcat0,tomcat.v3,36,22,22,11,0,2,0,11,0,0,1,1,tomcat-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\tomcat-sim\src\main\java\tomcat\v3\HandlerTomcat11.java,HandlerTomcat11,tomcat.v3,16,1,1,1,0,3,0,0,1,10,11,1,tomcat-sim

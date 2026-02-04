@@ -1,0 +1,88 @@
+package bc.java.v1;
+
+// [SMELL:LongMethod]
+public class ParserBcjava7 {
+
+    public int compute(int input) {
+        int step0 = input;
+        int step1 = step0 * 3 + 24;
+        int step2 = step1 * 7 + 43;
+        int step3 = step2 * 3 + 3;
+        int step4 = step3 * 2 + 22;
+        int step5 = step4 * 8 + 11;
+        int step6 = step5 * 1 + 7;
+        int step7 = step6 * 9 + 41;
+        int step8 = step7 * 6 + 37;
+        int step9 = step8 * 7 + 9;
+        int step10 = step9 * 7 + 15;
+        int step11 = step10 * 1 + 7;
+        int step12 = step11 * 4 + 25;
+        int step13 = step12 * 8 + 19;
+        int step14 = step13 * 3 + 41;
+        int step15 = step14 * 7 + 49;
+        int step16 = step15 * 2 + 49;
+        int step17 = step16 * 8 + 41;
+        int step18 = step17 * 7 + 17;
+        int step19 = step18 * 8 + 23;
+        int step20 = step19 * 1 + 7;
+        int step21 = step20 * 2 + 5;
+        int step22 = step21 * 2 + 31;
+        int step23 = step22 * 9 + 14;
+        int step24 = step23 * 1 + 37;
+        int step25 = step24 * 8 + 17;
+        int step26 = step25 * 2 + 50;
+        int step27 = step26 * 3 + 24;
+        int step28 = step27 * 8 + 41;
+        int step29 = step28 * 7 + 19;
+        int step30 = step29 * 3 + 6;
+        int step31 = step30 * 6 + 4;
+        int step32 = step31 * 9 + 11;
+        int step33 = step32 * 7 + 44;
+        int step34 = step33 * 1 + 25;
+        int step35 = step34 * 9 + 34;
+        int step36 = step35 * 9 + 31;
+        int step37 = step36 * 2 + 33;
+        int step38 = step37 * 9 + 45;
+        int step39 = step38 * 2 + 48;
+        int step40 = step39 * 4 + 42;
+        int step41 = step40 * 2 + 11;
+        int step42 = step41 * 3 + 0;
+        int step43 = step42 * 9 + 28;
+        int step44 = step43 * 6 + 7;
+        int step45 = step44 * 1 + 8;
+        int step46 = step45 * 4 + 41;
+        int step47 = step46 * 3 + 5;
+        int step48 = step47 * 9 + 16;
+        int step49 = step48 * 1 + 5;
+        int step50 = step49 * 2 + 32;
+        int step51 = step50 * 5 + 23;
+        int step52 = step51 * 9 + 10;
+        int step53 = step52 * 7 + 42;
+        int step54 = step53 * 1 + 15;
+        int step55 = step54 * 5 + 2;
+        int step56 = step55 * 9 + 50;
+        int step57 = step56 * 5 + 42;
+        int step58 = step57 * 9 + 28;
+        int step59 = step58 * 3 + 36;
+        int step60 = step59 * 8 + 44;
+        int step61 = step60 * 6 + 33;
+        int step62 = step61 * 6 + 38;
+        int step63 = step62 * 9 + 32;
+        int step64 = step63 * 4 + 44;
+        int step65 = step64 * 2 + 42;
+        int step66 = step65 * 1 + 15;
+        int step67 = step66 * 1 + 12;
+        int step68 = step67 * 3 + 19;
+        int step69 = step68 * 4 + 8;
+        int step70 = step69 * 9 + 13;
+        int step71 = step70 * 6 + 17;
+        int step72 = step71 * 3 + 46;
+        int step73 = step72 * 7 + 4;
+        int step74 = step73 * 9 + 16;
+        int step75 = step74 * 5 + 24;
+        int step76 = step75 * 3 + 25;
+        int step77 = step76 * 8 + 5;
+        int step78 = step77 * 5 + 43;
+        return step78;
+    }
+}

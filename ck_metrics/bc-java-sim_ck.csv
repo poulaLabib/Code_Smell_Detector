@@ -1,0 +1,16 @@
+file_path,class_name,package,LOC,WMC,METHODS,FIELDS,PRIVATE_METHODS,CBO,DIT,LCOM,TCC,ATFD,MAX_METHOD_LOC,NOC,project
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\bc-java-sim\src\main\java\bc\java\v1\FormatterBcjava1.java,FormatterBcjava1,bc.java.v1,22,5,5,0,4,3,0,0,1,0,4,1,bc-java-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\bc-java-sim\src\main\java\bc\java\v1\ParserBcjava4.java,ParserBcjava4,bc.java.v1,12,4,4,1,0,5,0,3,3,0,3,1,bc-java-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\bc-java-sim\src\main\java\bc\java\v1\ParserBcjava7.java,ParserBcjava7,bc.java.v1,85,1,1,0,0,2,0,0,0,0,82,1,bc-java-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\bc-java-sim\src\main\java\bc\java\v1\SchedulerBcjava8.java,SchedulerBcjava8,bc.java.v1,81,1,1,0,0,2,0,0,0,0,78,1,bc-java-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\bc-java-sim\src\main\java\bc\java\v1\ValidatorBcjava3.java,ValidatorBcjava3,bc.java.v1,156,15,15,28,0,2,0,0,0,0,10,1,bc-java-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\bc-java-sim\src\main\java\bc\java\v2\ManagerBcjava2.java,ManagerBcjava2,bc.java.v2,15,1,1,1,0,3,0,0,1,9,10,1,bc-java-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\bc-java-sim\src\main\java\bc\java\v2\ResolverBcjava0.java,ResolverBcjava0,bc.java.v2,12,4,4,1,0,5,0,3,3,0,3,1,bc-java-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\bc-java-sim\src\main\java\bc\java\v2\SchedulerBcjava5.java,SchedulerBcjava5,bc.java.v2,12,4,4,1,0,5,0,3,3,0,3,1,bc-java-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\bc-java-sim\src\main\java\bc\java\v2\ServiceBcjava10.java,ServiceBcjava10,bc.java.v2,42,26,26,13,0,2,0,13,0,0,1,1,bc-java-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\bc-java-sim\src\main\java\bc\java\v3\ApplicationBcjava12.java,ApplicationBcjava12,bc.java.v3,197,20,20,25,0,2,0,0,0,0,10,1,bc-java-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\bc-java-sim\src\main\java\bc\java\v3\ControllerBcjava6.java,ControllerBcjava6,bc.java.v3,27,16,16,8,0,2,0,8,0,0,1,1,bc-java-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\bc-java-sim\src\main\java\bc\java\v3\CoordinatorBcjava11.java,CoordinatorBcjava11,bc.java.v3,19,1,1,1,0,3,0,0,1,13,14,1,bc-java-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\bc-java-sim\src\main\java\bc\java\v3\EngineBcjava14.java,EngineBcjava14,bc.java.v3,12,4,4,1,0,5,0,3,3,0,3,1,bc-java-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\bc-java-sim\src\main\java\bc\java\v3\OrchestratorBcjava9.java,OrchestratorBcjava9,bc.java.v3,22,5,5,0,4,3,0,0,1,0,4,1,bc-java-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\bc-java-sim\src\main\java\bc\java\v3\ServiceBcjava13.java,ServiceBcjava13,bc.java.v3,16,1,1,1,0,3,0,0,1,10,11,1,bc-java-sim

@@ -1,0 +1,17 @@
+file_path,class_name,package,LOC,WMC,METHODS,FIELDS,PRIVATE_METHODS,CBO,DIT,LCOM,TCC,ATFD,MAX_METHOD_LOC,NOC,project
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v1\AnalyzerGuava14.java,AnalyzerGuava14,guava.v1,12,4,4,1,0,5,0,3,3,0,3,1,guava-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v1\ApplicationGuava11.java,ApplicationGuava11,guava.v1,138,15,15,18,0,2,0,0,0,0,10,1,guava-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v1\ApplicationGuava9.java,ApplicationGuava9,guava.v1,26,6,6,0,5,3,0,0,1,0,4,1,guava-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v1\BuilderGuava2.java,BuilderGuava2,guava.v1,15,1,1,1,0,3,0,0,1,9,10,1,guava-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v1\HandlerGuava13.java,HandlerGuava13,guava.v1,210,22,22,24,0,2,0,0,0,0,10,1,guava-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v1\HandlerGuava7.java,HandlerGuava7,guava.v1,12,4,4,1,0,5,0,3,3,0,3,1,guava-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v1\ParserGuava4.java,ParserGuava4,guava.v1,16,1,1,1,0,3,0,0,1,10,11,1,guava-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v2\ConverterGuava3.java,ConverterGuava3,guava.v2,19,1,1,1,0,3,0,0,1,13,14,1,guava-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v2\CoordinatorGuava15.java,CoordinatorGuava15,guava.v2,12,4,4,1,0,5,0,3,3,0,3,1,guava-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v2\EngineGuava6.java,EngineGuava6,guava.v2,12,4,4,1,0,5,0,3,3,0,3,1,guava-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v2\ExecutorGuava10.java,ExecutorGuava10,guava.v2,27,16,16,8,0,2,0,8,0,0,1,1,guava-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v2\HandlerGuava1.java,HandlerGuava1,guava.v2,12,4,4,1,0,5,0,3,3,0,3,1,guava-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v2\ManagerGuava12.java,ManagerGuava12,guava.v2,39,24,24,12,0,2,0,12,0,0,1,1,guava-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v3\BuilderGuava5.java,BuilderGuava5,guava.v3,27,16,16,8,0,2,0,8,0,0,1,1,guava-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v3\OrchestratorGuava0.java,OrchestratorGuava0,guava.v3,12,4,4,1,0,5,0,3,3,0,3,1,guava-sim
+C:\Users\Poula\Downloads\code_smell_project\code_smell_project\projects\guava-sim\src\main\java\guava\v3\RegistryGuava8.java,RegistryGuava8,guava.v3,73,1,1,0,0,2,0,0,0,0,70,1,guava-sim
