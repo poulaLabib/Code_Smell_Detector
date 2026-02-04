@@ -1,0 +1,14 @@
+{
+  "LogisticRegression": {
+    "macro_f1": 1.0,
+    "micro_f1": 1.0
+  },
+  "RandomForest_TextFused": {
+    "macro_f1": 1.0,
+    "micro_f1": 1.0
+  },
+  "MLP_TextFused": {
+    "macro_f1": 1.0,
+    "micro_f1": 1.0
+  }
+}

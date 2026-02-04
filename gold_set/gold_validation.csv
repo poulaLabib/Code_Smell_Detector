@@ -1,0 +1,1 @@
+project,file_path,class_name,package,LOC,WMC,METHODS,FIELDS,PRIVATE_METHODS,CBO,DIT,LCOM,TCC,ATFD,MAX_METHOD_LOC,NOC,sonar_GodClass,sonar_FeatureEnvy,sonar_LongMethod,sonar_DataClass,sonar_DeadCode,label_OR,label_majority,predicted_smell,true_smell,true_GodClass,true_FeatureEnvy,true_LongMethod,true_DataClass,true_DeadCode,true_Clean

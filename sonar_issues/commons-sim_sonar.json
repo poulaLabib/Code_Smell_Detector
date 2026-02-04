@@ -1,0 +1,93 @@
+{
+  "total": 8,
+  "issues": [
+    {
+      "key": "commons-sim:src\\main\\java\\commons\\v1\\ExecutorCommons10.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'ExecutorCommons10' has 75 lines",
+      "smell_label": "LongMethod",
+      "component": "commons-sim:src\\main\\java\\commons\\v1\\ExecutorCommons10.java",
+      "class_name": "ExecutorCommons10",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\commons-sim\\src\\main\\java\\commons\\v1\\ExecutorCommons10.java"
+    },
+    {
+      "key": "commons-sim:src\\main\\java\\commons\\v1\\ProcessorCommons12.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'ProcessorCommons12' has 71 lines",
+      "smell_label": "LongMethod",
+      "component": "commons-sim:src\\main\\java\\commons\\v1\\ProcessorCommons12.java",
+      "class_name": "ProcessorCommons12",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\commons-sim\\src\\main\\java\\commons\\v1\\ProcessorCommons12.java"
+    },
+    {
+      "key": "commons-sim:src\\main\\java\\commons\\v2\\CalculatorCommons0.java:java:S2095",
+      "rule": "java:S2095",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "GodClass: class 'CalculatorCommons0' has WMC=20, LOC=191, FIELDS=28",
+      "smell_label": "GodClass",
+      "component": "commons-sim:src\\main\\java\\commons\\v2\\CalculatorCommons0.java",
+      "class_name": "CalculatorCommons0",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\commons-sim\\src\\main\\java\\commons\\v2\\CalculatorCommons0.java"
+    },
+    {
+      "key": "commons-sim:src\\main\\java\\commons\\v2\\ControllerCommons3.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'ControllerCommons3' has ATFD=13, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "commons-sim:src\\main\\java\\commons\\v2\\ControllerCommons3.java",
+      "class_name": "ControllerCommons3",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\commons-sim\\src\\main\\java\\commons\\v2\\ControllerCommons3.java"
+    },
+    {
+      "key": "commons-sim:src\\main\\java\\commons\\v2\\HandlerCommons1.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'HandlerCommons1' has 9 fields but only trivial methods (WMC=18)",
+      "smell_label": "DataClass",
+      "component": "commons-sim:src\\main\\java\\commons\\v2\\HandlerCommons1.java",
+      "class_name": "HandlerCommons1",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\commons-sim\\src\\main\\java\\commons\\v2\\HandlerCommons1.java"
+    },
+    {
+      "key": "commons-sim:src\\main\\java\\commons\\v2\\ProcessorCommons5.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'ProcessorCommons5' has ATFD=11, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "commons-sim:src\\main\\java\\commons\\v2\\ProcessorCommons5.java",
+      "class_name": "ProcessorCommons5",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\commons-sim\\src\\main\\java\\commons\\v2\\ProcessorCommons5.java"
+    },
+    {
+      "key": "commons-sim:src\\main\\java\\commons\\v3\\CoordinatorCommons6.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'CoordinatorCommons6' has 61 lines",
+      "smell_label": "LongMethod",
+      "component": "commons-sim:src\\main\\java\\commons\\v3\\CoordinatorCommons6.java",
+      "class_name": "CoordinatorCommons6",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\commons-sim\\src\\main\\java\\commons\\v3\\CoordinatorCommons6.java"
+    },
+    {
+      "key": "commons-sim:src\\main\\java\\commons\\v3\\DispatcherCommons4.java:java:S2095",
+      "rule": "java:S2095",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "GodClass: class 'DispatcherCommons4' has WMC=22, LOC=197, FIELDS=25",
+      "smell_label": "GodClass",
+      "component": "commons-sim:src\\main\\java\\commons\\v3\\DispatcherCommons4.java",
+      "class_name": "DispatcherCommons4",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\commons-sim\\src\\main\\java\\commons\\v3\\DispatcherCommons4.java"
+    }
+  ]
+}

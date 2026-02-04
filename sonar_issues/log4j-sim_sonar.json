@@ -1,0 +1,170 @@
+{
+  "total": 15,
+  "issues": [
+    {
+      "key": "log4j-sim:src\\main\\java\\log4j\\v1\\AdapterLog4J3.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'AdapterLog4J3' has ATFD=10, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "log4j-sim:src\\main\\java\\log4j\\v1\\AdapterLog4J3.java",
+      "class_name": "AdapterLog4J3",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\log4j-sim\\src\\main\\java\\log4j\\v1\\AdapterLog4J3.java"
+    },
+    {
+      "key": "log4j-sim:src\\main\\java\\log4j\\v1\\EngineLog4J8.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'EngineLog4J8' has 4 private methods out of 5 total",
+      "smell_label": "DeadCode",
+      "component": "log4j-sim:src\\main\\java\\log4j\\v1\\EngineLog4J8.java",
+      "class_name": "EngineLog4J8",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\log4j-sim\\src\\main\\java\\log4j\\v1\\EngineLog4J8.java"
+    },
+    {
+      "key": "log4j-sim:src\\main\\java\\log4j\\v1\\FactoryLog4J6.java:java:S2095",
+      "rule": "java:S2095",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "GodClass: class 'FactoryLog4J6' has WMC=21, LOC=188, FIELDS=25",
+      "smell_label": "GodClass",
+      "component": "log4j-sim:src\\main\\java\\log4j\\v1\\FactoryLog4J6.java",
+      "class_name": "FactoryLog4J6",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\log4j-sim\\src\\main\\java\\log4j\\v1\\FactoryLog4J6.java"
+    },
+    {
+      "key": "log4j-sim:src\\main\\java\\log4j\\v2\\ApplicationLog4J11.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'ApplicationLog4J11' has 11 fields but only trivial methods (WMC=22)",
+      "smell_label": "DataClass",
+      "component": "log4j-sim:src\\main\\java\\log4j\\v2\\ApplicationLog4J11.java",
+      "class_name": "ApplicationLog4J11",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\log4j-sim\\src\\main\\java\\log4j\\v2\\ApplicationLog4J11.java"
+    },
+    {
+      "key": "log4j-sim:src\\main\\java\\log4j\\v2\\OrchestratorLog4J10.java:java:S2095",
+      "rule": "java:S2095",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "GodClass: class 'OrchestratorLog4J10' has WMC=20, LOC=181, FIELDS=20",
+      "smell_label": "GodClass",
+      "component": "log4j-sim:src\\main\\java\\log4j\\v2\\OrchestratorLog4J10.java",
+      "class_name": "OrchestratorLog4J10",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\log4j-sim\\src\\main\\java\\log4j\\v2\\OrchestratorLog4J10.java"
+    },
+    {
+      "key": "log4j-sim:src\\main\\java\\log4j\\v2\\ServiceLog4J14.java:java:S2095",
+      "rule": "java:S2095",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "GodClass: class 'ServiceLog4J14' has WMC=19, LOC=174, FIELDS=20",
+      "smell_label": "GodClass",
+      "component": "log4j-sim:src\\main\\java\\log4j\\v2\\ServiceLog4J14.java",
+      "class_name": "ServiceLog4J14",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\log4j-sim\\src\\main\\java\\log4j\\v2\\ServiceLog4J14.java"
+    },
+    {
+      "key": "log4j-sim:src\\main\\java\\log4j\\v3\\ApplicationLog4J1.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'ApplicationLog4J1' has 62 lines",
+      "smell_label": "LongMethod",
+      "component": "log4j-sim:src\\main\\java\\log4j\\v3\\ApplicationLog4J1.java",
+      "class_name": "ApplicationLog4J1",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\log4j-sim\\src\\main\\java\\log4j\\v3\\ApplicationLog4J1.java"
+    },
+    {
+      "key": "log4j-sim:src\\main\\java\\log4j\\v3\\CalculatorLog4J0.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'CalculatorLog4J0' has 13 fields but only trivial methods (WMC=26)",
+      "smell_label": "DataClass",
+      "component": "log4j-sim:src\\main\\java\\log4j\\v3\\CalculatorLog4J0.java",
+      "class_name": "CalculatorLog4J0",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\log4j-sim\\src\\main\\java\\log4j\\v3\\CalculatorLog4J0.java"
+    },
+    {
+      "key": "log4j-sim:src\\main\\java\\log4j\\v3\\DispatcherLog4J15.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'DispatcherLog4J15' has 64 lines",
+      "smell_label": "LongMethod",
+      "component": "log4j-sim:src\\main\\java\\log4j\\v3\\DispatcherLog4J15.java",
+      "class_name": "DispatcherLog4J15",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\log4j-sim\\src\\main\\java\\log4j\\v3\\DispatcherLog4J15.java"
+    },
+    {
+      "key": "log4j-sim:src\\main\\java\\log4j\\v3\\DispatcherLog4J7.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'DispatcherLog4J7' has 13 fields but only trivial methods (WMC=26)",
+      "smell_label": "DataClass",
+      "component": "log4j-sim:src\\main\\java\\log4j\\v3\\DispatcherLog4J7.java",
+      "class_name": "DispatcherLog4J7",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\log4j-sim\\src\\main\\java\\log4j\\v3\\DispatcherLog4J7.java"
+    },
+    {
+      "key": "log4j-sim:src\\main\\java\\log4j\\v3\\EngineLog4J17.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'EngineLog4J17' has ATFD=10, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "log4j-sim:src\\main\\java\\log4j\\v3\\EngineLog4J17.java",
+      "class_name": "EngineLog4J17",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\log4j-sim\\src\\main\\java\\log4j\\v3\\EngineLog4J17.java"
+    },
+    {
+      "key": "log4j-sim:src\\main\\java\\log4j\\v3\\EvaluatorLog4J16.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'EvaluatorLog4J16' has 75 lines",
+      "smell_label": "LongMethod",
+      "component": "log4j-sim:src\\main\\java\\log4j\\v3\\EvaluatorLog4J16.java",
+      "class_name": "EvaluatorLog4J16",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\log4j-sim\\src\\main\\java\\log4j\\v3\\EvaluatorLog4J16.java"
+    },
+    {
+      "key": "log4j-sim:src\\main\\java\\log4j\\v3\\FactoryLog4J13.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'FactoryLog4J13' has ATFD=13, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "log4j-sim:src\\main\\java\\log4j\\v3\\FactoryLog4J13.java",
+      "class_name": "FactoryLog4J13",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\log4j-sim\\src\\main\\java\\log4j\\v3\\FactoryLog4J13.java"
+    },
+    {
+      "key": "log4j-sim:src\\main\\java\\log4j\\v3\\ManagerLog4J4.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'ManagerLog4J4' has 67 lines",
+      "smell_label": "LongMethod",
+      "component": "log4j-sim:src\\main\\java\\log4j\\v3\\ManagerLog4J4.java",
+      "class_name": "ManagerLog4J4",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\log4j-sim\\src\\main\\java\\log4j\\v3\\ManagerLog4J4.java"
+    },
+    {
+      "key": "log4j-sim:src\\main\\java\\log4j\\v3\\OrchestratorLog4J5.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'OrchestratorLog4J5' has 74 lines",
+      "smell_label": "LongMethod",
+      "component": "log4j-sim:src\\main\\java\\log4j\\v3\\OrchestratorLog4J5.java",
+      "class_name": "OrchestratorLog4J5",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\log4j-sim\\src\\main\\java\\log4j\\v3\\OrchestratorLog4J5.java"
+    }
+  ]
+}

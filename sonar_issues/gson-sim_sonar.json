@@ -1,0 +1,115 @@
+{
+  "total": 10,
+  "issues": [
+    {
+      "key": "gson-sim:src\\main\\java\\gson\\v1\\EvaluatorGson14.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'EvaluatorGson14' has 8 fields but only trivial methods (WMC=16)",
+      "smell_label": "DataClass",
+      "component": "gson-sim:src\\main\\java\\gson\\v1\\EvaluatorGson14.java",
+      "class_name": "EvaluatorGson14",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\gson-sim\\src\\main\\java\\gson\\v1\\EvaluatorGson14.java"
+    },
+    {
+      "key": "gson-sim:src\\main\\java\\gson\\v1\\FactoryGson10.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'FactoryGson10' has 7 fields but only trivial methods (WMC=14)",
+      "smell_label": "DataClass",
+      "component": "gson-sim:src\\main\\java\\gson\\v1\\FactoryGson10.java",
+      "class_name": "FactoryGson10",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\gson-sim\\src\\main\\java\\gson\\v1\\FactoryGson10.java"
+    },
+    {
+      "key": "gson-sim:src\\main\\java\\gson\\v1\\OrchestratorGson9.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'OrchestratorGson9' has 6 private methods out of 7 total",
+      "smell_label": "DeadCode",
+      "component": "gson-sim:src\\main\\java\\gson\\v1\\OrchestratorGson9.java",
+      "class_name": "OrchestratorGson9",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\gson-sim\\src\\main\\java\\gson\\v1\\OrchestratorGson9.java"
+    },
+    {
+      "key": "gson-sim:src\\main\\java\\gson\\v2\\AnalyzerGson12.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'AnalyzerGson12' has 74 lines",
+      "smell_label": "LongMethod",
+      "component": "gson-sim:src\\main\\java\\gson\\v2\\AnalyzerGson12.java",
+      "class_name": "AnalyzerGson12",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\gson-sim\\src\\main\\java\\gson\\v2\\AnalyzerGson12.java"
+    },
+    {
+      "key": "gson-sim:src\\main\\java\\gson\\v2\\ConverterGson8.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'ConverterGson8' has 13 fields but only trivial methods (WMC=26)",
+      "smell_label": "DataClass",
+      "component": "gson-sim:src\\main\\java\\gson\\v2\\ConverterGson8.java",
+      "class_name": "ConverterGson8",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\gson-sim\\src\\main\\java\\gson\\v2\\ConverterGson8.java"
+    },
+    {
+      "key": "gson-sim:src\\main\\java\\gson\\v2\\CoordinatorGson3.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'CoordinatorGson3' has 8 fields but only trivial methods (WMC=16)",
+      "smell_label": "DataClass",
+      "component": "gson-sim:src\\main\\java\\gson\\v2\\CoordinatorGson3.java",
+      "class_name": "CoordinatorGson3",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\gson-sim\\src\\main\\java\\gson\\v2\\CoordinatorGson3.java"
+    },
+    {
+      "key": "gson-sim:src\\main\\java\\gson\\v2\\OrchestratorGson16.java:java:S2095",
+      "rule": "java:S2095",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "GodClass: class 'OrchestratorGson16' has WMC=16, LOC=152, FIELDS=21",
+      "smell_label": "GodClass",
+      "component": "gson-sim:src\\main\\java\\gson\\v2\\OrchestratorGson16.java",
+      "class_name": "OrchestratorGson16",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\gson-sim\\src\\main\\java\\gson\\v2\\OrchestratorGson16.java"
+    },
+    {
+      "key": "gson-sim:src\\main\\java\\gson\\v2\\ParserGson4.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'ParserGson4' has 75 lines",
+      "smell_label": "LongMethod",
+      "component": "gson-sim:src\\main\\java\\gson\\v2\\ParserGson4.java",
+      "class_name": "ParserGson4",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\gson-sim\\src\\main\\java\\gson\\v2\\ParserGson4.java"
+    },
+    {
+      "key": "gson-sim:src\\main\\java\\gson\\v3\\CalculatorGson13.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'CalculatorGson13' has 13 fields but only trivial methods (WMC=26)",
+      "smell_label": "DataClass",
+      "component": "gson-sim:src\\main\\java\\gson\\v3\\CalculatorGson13.java",
+      "class_name": "CalculatorGson13",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\gson-sim\\src\\main\\java\\gson\\v3\\CalculatorGson13.java"
+    },
+    {
+      "key": "gson-sim:src\\main\\java\\gson\\v3\\TransformerGson2.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'TransformerGson2' has 5 private methods out of 6 total",
+      "smell_label": "DeadCode",
+      "component": "gson-sim:src\\main\\java\\gson\\v3\\TransformerGson2.java",
+      "class_name": "TransformerGson2",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\gson-sim\\src\\main\\java\\gson\\v3\\TransformerGson2.java"
+    }
+  ]
+}

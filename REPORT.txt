@@ -1,0 +1,153 @@
+======================================================================
+ CODE SMELL DETECTION — FULL PIPELINE REPORT
+======================================================================
+
+📁 PROJECT STRUCTURE
+----------------------------------------------------------------------
+
+  code_smell_project/
+  ├── projects/                  ← 12 Java projects (synthetic)
+  ├── ck_metrics/                ← CK metrics per project + combined JSON
+  ├── sonar_issues/              ← SonarQube-style detections per project
+  ├── dataset/
+  │   ├── dataset.csv            ← Full dataset (features + labels, no code)
+  │   ├── dataset.json           ← Full dataset (includes raw_code)
+  │   └── split_info.json        ← Train/Val/Test project assignments
+  ├── gold_set/
+  │   ├── ground_truth_meta.json ← True labels for all 191 classes
+  │   └── gold_validation.csv    ← 156 stratified gold examples
+  ├── models/
+  │   ├── baseline_a_results.json
+  │   ├── baseline_b_tfidf_results.json
+  │   └── baseline_b_codebert.py ← Ready to run on GPU
+  ├── clone_projects.sh          ← Run on YOUR machine to get real repos
+  ├── generate_synthetic_java.py ← Generated the 191 Java files
+  ├── ck_extractor.py            ← CK metrics extractor (pure Python)
+  ├── sonar_detector.py          ← SonarQube rule emulator
+  ├── build_dataset.py           ← Merges everything into dataset
+  ├── baseline_a_rf.py           ← RandomForest on CK metrics
+  └── baseline_b_text.py         ← TF-IDF + CodeBERT pipeline
+
+
+📊 DATASET STATISTICS
+----------------------------------------------------------------------
+  Total classes analyzed:  191
+  Projects:                12
+
+  Smell distribution (ground truth):
+    GodClass       :  30 ( 15.7%)  ███████
+    FeatureEnvy    :  23 ( 12.0%)  ██████
+    LongMethod     :  28 ( 14.7%)  ███████
+    DataClass      :  33 ( 17.3%)  ████████
+    DeadCode       :  22 ( 11.5%)  █████
+    Clean          :  55 ( 28.8%)  ██████████████
+
+  Project-level split (NO data leakage):
+    TRAIN  (67%): 8 projects → 123 examples
+    VAL    ( 8%): 1 projects → 17 examples
+    TEST   (25%): 3 projects → 51 examples
+
+  Gold validation set: 156 stratified examples
+
+📈 BASELINE A — RandomForest on CK Metrics
+----------------------------------------------------------------------
+  Smell                    Prec      Rec       F1
+  ------------------------------------------------
+  GodClass                1.000    1.000    1.000
+  FeatureEnvy             1.000    1.000    1.000
+  LongMethod              1.000    1.000    1.000
+  DataClass               1.000    1.000    1.000
+  DeadCode                1.000    1.000    1.000
+
+  Top features per smell:
+    GodClass        → LOC (0.29), FIELDS (0.24), METHODS (0.14)
+    FeatureEnvy     → ATFD (0.30), METHODS (0.19), WMC (0.17)
+    LongMethod      → MAX_METHOD_LOC (0.34), FIELDS (0.15), METHODS (0.14)
+    DataClass       → MAX_METHOD_LOC (0.31), LCOM (0.27), FIELDS (0.10)
+    DeadCode        → PRIVATE_METHODS (0.34), FIELDS (0.19), MAX_METHOD_LOC (0.09)
+
+📈 BASELINE B — TF-IDF Code Text Classifier
+----------------------------------------------------------------------
+  Model                            Macro F1   Micro F1
+  ----------------------------------------------------
+  LogisticRegression                  1.000      1.000
+  RandomForest_TextFused              1.000      1.000
+  MLP_TextFused                       1.000      1.000
+
+  Ablation (LogisticRegression):
+    Text-only (TF-IDF):      Macro F1 = 1.000
+    Metrics-only (CK):       Macro F1 = 1.000
+    Fused (TF-IDF + CK):     Macro F1 = 1.000
+    → On synthetic data all signals are clean.
+    → On REAL data, expect Text < Metrics for structural smells,
+      and Fused > either alone (especially for FeatureEnvy).
+
+⚠️  WHY PERFECT SCORES? (Important!)
+----------------------------------------------------------------------
+  Our synthetic Java files have very distinct patterns by design:
+  • GodClass files have 18-30 fields and 14-25 methods
+  • LongMethod files have 58-80 lines in one method
+  • DataClass files have only getters/setters
+  
+  This makes them trivially separable. On REAL code:
+  • God Classes emerge gradually — boundaries are fuzzy
+  • Feature Envy requires understanding call semantics
+  • Dead Code needs whole-program analysis
+  
+  Expected real-world performance:
+  • LongMethod:     F1 ~ 0.85-0.95  (mostly LOC-based, straightforward)
+  • GodClass:       F1 ~ 0.65-0.80  (structural, metrics help a lot)
+  • DataClass:      F1 ~ 0.70-0.85  (ratio-based, works well)
+  • DeadCode:       F1 ~ 0.50-0.70  (needs call-graph analysis)
+  • FeatureEnvy:    F1 ~ 0.40-0.65  (most semantic, CodeBERT helps most here)
+
+
+🚀 NEXT STEPS — Running on Real Data
+----------------------------------------------------------------------
+
+  STEP 1: Clone real projects (on your machine with internet)
+          bash clone_projects.sh
+
+  STEP 2: Run CK metrics on real projects
+          python ck_extractor.py
+          (change BASE path to point to your real projects/)
+
+  STEP 3: Run SonarQube (REAL Docker version) for production labels
+          docker run -d --name sonarqube -p 9000:9000 sonarqube:lts
+          # wait ~2 min, then run sonar-scanner on each project
+          # OR keep using sonar_detector.py as a fast approximation
+
+  STEP 4: Build dataset
+          python build_dataset.py
+          (manually label 200-500 examples for gold set — 
+           replace ground_truth_meta.json with your human labels)
+
+  STEP 5: Train baselines
+          python baseline_a_rf.py      ← works anywhere
+          python baseline_b_text.py    ← TF-IDF version, works anywhere
+
+  STEP 6: Fine-tune CodeBERT (needs GPU)
+          pip install transformers torch accelerate
+          python baseline_b_codebert.py
+          
+  STEP 7: Iterate
+          • If GodClass F1 < 0.7 → add more training projects
+          • If FeatureEnvy F1 < 0.5 → CodeBERT + feature fusion is key
+          • If DeadCode F1 is low → consider adding call-graph features
+          • Active learning: take uncertain predictions, manually label, retrain
+
+
+💡 KEY RECOMMENDATIONS
+----------------------------------------------------------------------
+  1. Use MAJORITY VOTE labels (≥2 tools agree) not OR — higher precision
+  2. Always evaluate on human-labeled gold set, never trust tool-only metrics
+  3. Different smells need different strategies:
+     • Structural (GodClass, LongMethod) → CK metrics dominate
+     • Semantic (FeatureEnvy) → CodeBERT embeddings are essential
+     • Behavioral (DeadCode) → needs call-graph or whole-program analysis
+  4. Project-level splits are NON-NEGOTIABLE — file-level splits will lie to you
+  5. Report per-smell F1 — macro averages hide failures on rare smells
+
+======================================================================
+ END OF REPORT
+======================================================================

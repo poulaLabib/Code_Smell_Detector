@@ -1,0 +1,126 @@
+{
+  "total": 11,
+  "issues": [
+    {
+      "key": "maven-sim:src\\main\\java\\maven\\v1\\ExecutorMaven13.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'ExecutorMaven13' has ATFD=13, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "maven-sim:src\\main\\java\\maven\\v1\\ExecutorMaven13.java",
+      "class_name": "ExecutorMaven13",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\maven-sim\\src\\main\\java\\maven\\v1\\ExecutorMaven13.java"
+    },
+    {
+      "key": "maven-sim:src\\main\\java\\maven\\v1\\ExecutorMaven5.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'ExecutorMaven5' has 6 fields but only trivial methods (WMC=12)",
+      "smell_label": "DataClass",
+      "component": "maven-sim:src\\main\\java\\maven\\v1\\ExecutorMaven5.java",
+      "class_name": "ExecutorMaven5",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\maven-sim\\src\\main\\java\\maven\\v1\\ExecutorMaven5.java"
+    },
+    {
+      "key": "maven-sim:src\\main\\java\\maven\\v1\\ManagerMaven6.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'ManagerMaven6' has 6 private methods out of 7 total",
+      "smell_label": "DeadCode",
+      "component": "maven-sim:src\\main\\java\\maven\\v1\\ManagerMaven6.java",
+      "class_name": "ManagerMaven6",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\maven-sim\\src\\main\\java\\maven\\v1\\ManagerMaven6.java"
+    },
+    {
+      "key": "maven-sim:src\\main\\java\\maven\\v1\\ServiceMaven16.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'ServiceMaven16' has 10 fields but only trivial methods (WMC=20)",
+      "smell_label": "DataClass",
+      "component": "maven-sim:src\\main\\java\\maven\\v1\\ServiceMaven16.java",
+      "class_name": "ServiceMaven16",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\maven-sim\\src\\main\\java\\maven\\v1\\ServiceMaven16.java"
+    },
+    {
+      "key": "maven-sim:src\\main\\java\\maven\\v2\\BuilderMaven12.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'BuilderMaven12' has 72 lines",
+      "smell_label": "LongMethod",
+      "component": "maven-sim:src\\main\\java\\maven\\v2\\BuilderMaven12.java",
+      "class_name": "BuilderMaven12",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\maven-sim\\src\\main\\java\\maven\\v2\\BuilderMaven12.java"
+    },
+    {
+      "key": "maven-sim:src\\main\\java\\maven\\v3\\ApplicationMaven4.java:java:S2095",
+      "rule": "java:S2095",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "GodClass: class 'ApplicationMaven4' has WMC=20, LOC=187, FIELDS=27",
+      "smell_label": "GodClass",
+      "component": "maven-sim:src\\main\\java\\maven\\v3\\ApplicationMaven4.java",
+      "class_name": "ApplicationMaven4",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\maven-sim\\src\\main\\java\\maven\\v3\\ApplicationMaven4.java"
+    },
+    {
+      "key": "maven-sim:src\\main\\java\\maven\\v3\\ControllerMaven2.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'ControllerMaven2' has 3 private methods out of 4 total",
+      "smell_label": "DeadCode",
+      "component": "maven-sim:src\\main\\java\\maven\\v3\\ControllerMaven2.java",
+      "class_name": "ControllerMaven2",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\maven-sim\\src\\main\\java\\maven\\v3\\ControllerMaven2.java"
+    },
+    {
+      "key": "maven-sim:src\\main\\java\\maven\\v3\\FormatterMaven11.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'FormatterMaven11' has 6 fields but only trivial methods (WMC=12)",
+      "smell_label": "DataClass",
+      "component": "maven-sim:src\\main\\java\\maven\\v3\\FormatterMaven11.java",
+      "class_name": "FormatterMaven11",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\maven-sim\\src\\main\\java\\maven\\v3\\FormatterMaven11.java"
+    },
+    {
+      "key": "maven-sim:src\\main\\java\\maven\\v3\\HandlerMaven3.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'HandlerMaven3' has 5 private methods out of 6 total",
+      "smell_label": "DeadCode",
+      "component": "maven-sim:src\\main\\java\\maven\\v3\\HandlerMaven3.java",
+      "class_name": "HandlerMaven3",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\maven-sim\\src\\main\\java\\maven\\v3\\HandlerMaven3.java"
+    },
+    {
+      "key": "maven-sim:src\\main\\java\\maven\\v3\\RegistryMaven8.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'RegistryMaven8' has ATFD=12, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "maven-sim:src\\main\\java\\maven\\v3\\RegistryMaven8.java",
+      "class_name": "RegistryMaven8",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\maven-sim\\src\\main\\java\\maven\\v3\\RegistryMaven8.java"
+    },
+    {
+      "key": "maven-sim:src\\main\\java\\maven\\v3\\ValidatorMaven15.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'ValidatorMaven15' has 11 fields but only trivial methods (WMC=22)",
+      "smell_label": "DataClass",
+      "component": "maven-sim:src\\main\\java\\maven\\v3\\ValidatorMaven15.java",
+      "class_name": "ValidatorMaven15",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\maven-sim\\src\\main\\java\\maven\\v3\\ValidatorMaven15.java"
+    }
+  ]
+}

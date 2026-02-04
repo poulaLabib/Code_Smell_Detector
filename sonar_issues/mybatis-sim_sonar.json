@@ -1,0 +1,126 @@
+{
+  "total": 11,
+  "issues": [
+    {
+      "key": "mybatis-sim:src\\main\\java\\mybatis\\v1\\SchedulerMybatis0.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'SchedulerMybatis0' has 4 private methods out of 5 total",
+      "smell_label": "DeadCode",
+      "component": "mybatis-sim:src\\main\\java\\mybatis\\v1\\SchedulerMybatis0.java",
+      "class_name": "SchedulerMybatis0",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\mybatis-sim\\src\\main\\java\\mybatis\\v1\\SchedulerMybatis0.java"
+    },
+    {
+      "key": "mybatis-sim:src\\main\\java\\mybatis\\v2\\FactoryMybatis10.java:java:S2095",
+      "rule": "java:S2095",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "GodClass: class 'FactoryMybatis10' has WMC=22, LOC=209, FIELDS=27",
+      "smell_label": "GodClass",
+      "component": "mybatis-sim:src\\main\\java\\mybatis\\v2\\FactoryMybatis10.java",
+      "class_name": "FactoryMybatis10",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\mybatis-sim\\src\\main\\java\\mybatis\\v2\\FactoryMybatis10.java"
+    },
+    {
+      "key": "mybatis-sim:src\\main\\java\\mybatis\\v2\\FormatterMybatis1.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'FormatterMybatis1' has 7 fields but only trivial methods (WMC=14)",
+      "smell_label": "DataClass",
+      "component": "mybatis-sim:src\\main\\java\\mybatis\\v2\\FormatterMybatis1.java",
+      "class_name": "FormatterMybatis1",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\mybatis-sim\\src\\main\\java\\mybatis\\v2\\FormatterMybatis1.java"
+    },
+    {
+      "key": "mybatis-sim:src\\main\\java\\mybatis\\v2\\ResolverMybatis6.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'ResolverMybatis6' has 6 fields but only trivial methods (WMC=12)",
+      "smell_label": "DataClass",
+      "component": "mybatis-sim:src\\main\\java\\mybatis\\v2\\ResolverMybatis6.java",
+      "class_name": "ResolverMybatis6",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\mybatis-sim\\src\\main\\java\\mybatis\\v2\\ResolverMybatis6.java"
+    },
+    {
+      "key": "mybatis-sim:src\\main\\java\\mybatis\\v3\\BuilderMybatis3.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'BuilderMybatis3' has 3 private methods out of 4 total",
+      "smell_label": "DeadCode",
+      "component": "mybatis-sim:src\\main\\java\\mybatis\\v3\\BuilderMybatis3.java",
+      "class_name": "BuilderMybatis3",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\mybatis-sim\\src\\main\\java\\mybatis\\v3\\BuilderMybatis3.java"
+    },
+    {
+      "key": "mybatis-sim:src\\main\\java\\mybatis\\v3\\DispatcherMybatis5.java:java:S2095",
+      "rule": "java:S2095",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "GodClass: class 'DispatcherMybatis5' has WMC=22, LOC=204, FIELDS=19",
+      "smell_label": "GodClass",
+      "component": "mybatis-sim:src\\main\\java\\mybatis\\v3\\DispatcherMybatis5.java",
+      "class_name": "DispatcherMybatis5",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\mybatis-sim\\src\\main\\java\\mybatis\\v3\\DispatcherMybatis5.java"
+    },
+    {
+      "key": "mybatis-sim:src\\main\\java\\mybatis\\v3\\EngineMybatis7.java:java:S2095",
+      "rule": "java:S2095",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "GodClass: class 'EngineMybatis7' has WMC=17, LOC=160, FIELDS=19",
+      "smell_label": "GodClass",
+      "component": "mybatis-sim:src\\main\\java\\mybatis\\v3\\EngineMybatis7.java",
+      "class_name": "EngineMybatis7",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\mybatis-sim\\src\\main\\java\\mybatis\\v3\\EngineMybatis7.java"
+    },
+    {
+      "key": "mybatis-sim:src\\main\\java\\mybatis\\v3\\EvaluatorMybatis4.java:java:S2095",
+      "rule": "java:S2095",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "GodClass: class 'EvaluatorMybatis4' has WMC=22, LOC=204, FIELDS=22",
+      "smell_label": "GodClass",
+      "component": "mybatis-sim:src\\main\\java\\mybatis\\v3\\EvaluatorMybatis4.java",
+      "class_name": "EvaluatorMybatis4",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\mybatis-sim\\src\\main\\java\\mybatis\\v3\\EvaluatorMybatis4.java"
+    },
+    {
+      "key": "mybatis-sim:src\\main\\java\\mybatis\\v3\\EvaluatorMybatis8.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'EvaluatorMybatis8' has 5 private methods out of 6 total",
+      "smell_label": "DeadCode",
+      "component": "mybatis-sim:src\\main\\java\\mybatis\\v3\\EvaluatorMybatis8.java",
+      "class_name": "EvaluatorMybatis8",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\mybatis-sim\\src\\main\\java\\mybatis\\v3\\EvaluatorMybatis8.java"
+    },
+    {
+      "key": "mybatis-sim:src\\main\\java\\mybatis\\v3\\HandlerMybatis15.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'HandlerMybatis15' has 10 fields but only trivial methods (WMC=20)",
+      "smell_label": "DataClass",
+      "component": "mybatis-sim:src\\main\\java\\mybatis\\v3\\HandlerMybatis15.java",
+      "class_name": "HandlerMybatis15",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\mybatis-sim\\src\\main\\java\\mybatis\\v3\\HandlerMybatis15.java"
+    },
+    {
+      "key": "mybatis-sim:src\\main\\java\\mybatis\\v3\\SchedulerMybatis11.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'SchedulerMybatis11' has 4 private methods out of 5 total",
+      "smell_label": "DeadCode",
+      "component": "mybatis-sim:src\\main\\java\\mybatis\\v3\\SchedulerMybatis11.java",
+      "class_name": "SchedulerMybatis11",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\mybatis-sim\\src\\main\\java\\mybatis\\v3\\SchedulerMybatis11.java"
+    }
+  ]
+}

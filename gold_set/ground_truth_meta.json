@@ -1,0 +1,1339 @@
+[
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v2/CoordinatorSpring0.java",
+    "class_name": "CoordinatorSpring0",
+    "package": "spring.v2",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v2/ExecutorSpring1.java",
+    "class_name": "ExecutorSpring1",
+    "package": "spring.v2",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v3/ManagerSpring2.java",
+    "class_name": "ManagerSpring2",
+    "package": "spring.v3",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v2/ResolverSpring3.java",
+    "class_name": "ResolverSpring3",
+    "package": "spring.v2",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v1/ServiceSpring4.java",
+    "class_name": "ServiceSpring4",
+    "package": "spring.v1",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v3/ResolverSpring5.java",
+    "class_name": "ResolverSpring5",
+    "package": "spring.v3",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v3/FormatterSpring6.java",
+    "class_name": "FormatterSpring6",
+    "package": "spring.v3",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v1/ControllerSpring7.java",
+    "class_name": "ControllerSpring7",
+    "package": "spring.v1",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v2/FormatterSpring8.java",
+    "class_name": "FormatterSpring8",
+    "package": "spring.v2",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v1/CalculatorSpring9.java",
+    "class_name": "CalculatorSpring9",
+    "package": "spring.v1",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v1/DispatcherSpring10.java",
+    "class_name": "DispatcherSpring10",
+    "package": "spring.v1",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v2/ProcessorSpring11.java",
+    "class_name": "ProcessorSpring11",
+    "package": "spring.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v3/ProcessorSpring12.java",
+    "class_name": "ProcessorSpring12",
+    "package": "spring.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v1/FactorySpring13.java",
+    "class_name": "FactorySpring13",
+    "package": "spring.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v1/AdapterSpring14.java",
+    "class_name": "AdapterSpring14",
+    "package": "spring.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v1/AdapterSpring15.java",
+    "class_name": "AdapterSpring15",
+    "package": "spring.v1",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v3/FactorySpring16.java",
+    "class_name": "FactorySpring16",
+    "package": "spring.v3",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "spring-sim",
+    "file_path": "/home/claude/code_smell_project/projects/spring-sim/src/main/java/spring/v1/CoordinatorSpring17.java",
+    "class_name": "CoordinatorSpring17",
+    "package": "spring.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v3/OrchestratorGuava0.java",
+    "class_name": "OrchestratorGuava0",
+    "package": "guava.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v2/HandlerGuava1.java",
+    "class_name": "HandlerGuava1",
+    "package": "guava.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v1/BuilderGuava2.java",
+    "class_name": "BuilderGuava2",
+    "package": "guava.v1",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v2/ConverterGuava3.java",
+    "class_name": "ConverterGuava3",
+    "package": "guava.v2",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v1/ParserGuava4.java",
+    "class_name": "ParserGuava4",
+    "package": "guava.v1",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v3/BuilderGuava5.java",
+    "class_name": "BuilderGuava5",
+    "package": "guava.v3",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v2/EngineGuava6.java",
+    "class_name": "EngineGuava6",
+    "package": "guava.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v1/HandlerGuava7.java",
+    "class_name": "HandlerGuava7",
+    "package": "guava.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v3/RegistryGuava8.java",
+    "class_name": "RegistryGuava8",
+    "package": "guava.v3",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v1/ApplicationGuava9.java",
+    "class_name": "ApplicationGuava9",
+    "package": "guava.v1",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v2/ExecutorGuava10.java",
+    "class_name": "ExecutorGuava10",
+    "package": "guava.v2",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v1/ApplicationGuava11.java",
+    "class_name": "ApplicationGuava11",
+    "package": "guava.v1",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v2/ManagerGuava12.java",
+    "class_name": "ManagerGuava12",
+    "package": "guava.v2",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v1/HandlerGuava13.java",
+    "class_name": "HandlerGuava13",
+    "package": "guava.v1",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v1/AnalyzerGuava14.java",
+    "class_name": "AnalyzerGuava14",
+    "package": "guava.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "guava-sim",
+    "file_path": "/home/claude/code_smell_project/projects/guava-sim/src/main/java/guava/v2/CoordinatorGuava15.java",
+    "class_name": "CoordinatorGuava15",
+    "package": "guava.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "commons-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-sim/src/main/java/commons/v2/CalculatorCommons0.java",
+    "class_name": "CalculatorCommons0",
+    "package": "commons.v2",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "commons-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-sim/src/main/java/commons/v2/HandlerCommons1.java",
+    "class_name": "HandlerCommons1",
+    "package": "commons.v2",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "commons-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-sim/src/main/java/commons/v2/FormatterCommons2.java",
+    "class_name": "FormatterCommons2",
+    "package": "commons.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "commons-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-sim/src/main/java/commons/v2/ControllerCommons3.java",
+    "class_name": "ControllerCommons3",
+    "package": "commons.v2",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "commons-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-sim/src/main/java/commons/v3/DispatcherCommons4.java",
+    "class_name": "DispatcherCommons4",
+    "package": "commons.v3",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "commons-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-sim/src/main/java/commons/v2/ProcessorCommons5.java",
+    "class_name": "ProcessorCommons5",
+    "package": "commons.v2",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "commons-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-sim/src/main/java/commons/v3/CoordinatorCommons6.java",
+    "class_name": "CoordinatorCommons6",
+    "package": "commons.v3",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "commons-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-sim/src/main/java/commons/v1/ApplicationCommons7.java",
+    "class_name": "ApplicationCommons7",
+    "package": "commons.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "commons-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-sim/src/main/java/commons/v3/AdapterCommons8.java",
+    "class_name": "AdapterCommons8",
+    "package": "commons.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "commons-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-sim/src/main/java/commons/v3/ResolverCommons9.java",
+    "class_name": "ResolverCommons9",
+    "package": "commons.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "commons-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-sim/src/main/java/commons/v1/ExecutorCommons10.java",
+    "class_name": "ExecutorCommons10",
+    "package": "commons.v1",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "commons-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-sim/src/main/java/commons/v3/ParserCommons11.java",
+    "class_name": "ParserCommons11",
+    "package": "commons.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "commons-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-sim/src/main/java/commons/v1/ProcessorCommons12.java",
+    "class_name": "ProcessorCommons12",
+    "package": "commons.v1",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "commons-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-sim/src/main/java/commons/v1/CoordinatorCommons13.java",
+    "class_name": "CoordinatorCommons13",
+    "package": "commons.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v1/RegistryPicocli0.java",
+    "class_name": "RegistryPicocli0",
+    "package": "picocli.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v1/ExecutorPicocli1.java",
+    "class_name": "ExecutorPicocli1",
+    "package": "picocli.v1",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v3/ApplicationPicocli2.java",
+    "class_name": "ApplicationPicocli2",
+    "package": "picocli.v3",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v1/EnginePicocli3.java",
+    "class_name": "EnginePicocli3",
+    "package": "picocli.v1",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v2/SchedulerPicocli4.java",
+    "class_name": "SchedulerPicocli4",
+    "package": "picocli.v2",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v1/AnalyzerPicocli5.java",
+    "class_name": "AnalyzerPicocli5",
+    "package": "picocli.v1",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v1/EnginePicocli6.java",
+    "class_name": "EnginePicocli6",
+    "package": "picocli.v1",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v2/ManagerPicocli7.java",
+    "class_name": "ManagerPicocli7",
+    "package": "picocli.v2",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v2/ResolverPicocli8.java",
+    "class_name": "ResolverPicocli8",
+    "package": "picocli.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v3/RegistryPicocli9.java",
+    "class_name": "RegistryPicocli9",
+    "package": "picocli.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v3/TransformerPicocli10.java",
+    "class_name": "TransformerPicocli10",
+    "package": "picocli.v3",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v1/OrchestratorPicocli11.java",
+    "class_name": "OrchestratorPicocli11",
+    "package": "picocli.v1",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v3/TransformerPicocli12.java",
+    "class_name": "TransformerPicocli12",
+    "package": "picocli.v3",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v2/FormatterPicocli13.java",
+    "class_name": "FormatterPicocli13",
+    "package": "picocli.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v1/EvaluatorPicocli14.java",
+    "class_name": "EvaluatorPicocli14",
+    "package": "picocli.v1",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v2/DispatcherPicocli15.java",
+    "class_name": "DispatcherPicocli15",
+    "package": "picocli.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "picocli-sim",
+    "file_path": "/home/claude/code_smell_project/projects/picocli-sim/src/main/java/picocli/v3/ParserPicocli16.java",
+    "class_name": "ParserPicocli16",
+    "package": "picocli.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v3/FactoryGson0.java",
+    "class_name": "FactoryGson0",
+    "package": "gson.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v3/EvaluatorGson1.java",
+    "class_name": "EvaluatorGson1",
+    "package": "gson.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v3/TransformerGson2.java",
+    "class_name": "TransformerGson2",
+    "package": "gson.v3",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v2/CoordinatorGson3.java",
+    "class_name": "CoordinatorGson3",
+    "package": "gson.v2",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v2/ParserGson4.java",
+    "class_name": "ParserGson4",
+    "package": "gson.v2",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v2/HandlerGson5.java",
+    "class_name": "HandlerGson5",
+    "package": "gson.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v2/HandlerGson6.java",
+    "class_name": "HandlerGson6",
+    "package": "gson.v2",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v3/AnalyzerGson7.java",
+    "class_name": "AnalyzerGson7",
+    "package": "gson.v3",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v2/ConverterGson8.java",
+    "class_name": "ConverterGson8",
+    "package": "gson.v2",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v1/OrchestratorGson9.java",
+    "class_name": "OrchestratorGson9",
+    "package": "gson.v1",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v1/FactoryGson10.java",
+    "class_name": "FactoryGson10",
+    "package": "gson.v1",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v2/ValidatorGson11.java",
+    "class_name": "ValidatorGson11",
+    "package": "gson.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v2/AnalyzerGson12.java",
+    "class_name": "AnalyzerGson12",
+    "package": "gson.v2",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v3/CalculatorGson13.java",
+    "class_name": "CalculatorGson13",
+    "package": "gson.v3",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v1/EvaluatorGson14.java",
+    "class_name": "EvaluatorGson14",
+    "package": "gson.v1",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v2/TransformerGson15.java",
+    "class_name": "TransformerGson15",
+    "package": "gson.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "gson-sim",
+    "file_path": "/home/claude/code_smell_project/projects/gson-sim/src/main/java/gson/v2/OrchestratorGson16.java",
+    "class_name": "OrchestratorGson16",
+    "package": "gson.v2",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v1/SchedulerMybatis0.java",
+    "class_name": "SchedulerMybatis0",
+    "package": "mybatis.v1",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v2/FormatterMybatis1.java",
+    "class_name": "FormatterMybatis1",
+    "package": "mybatis.v2",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v3/DispatcherMybatis2.java",
+    "class_name": "DispatcherMybatis2",
+    "package": "mybatis.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v3/BuilderMybatis3.java",
+    "class_name": "BuilderMybatis3",
+    "package": "mybatis.v3",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v3/EvaluatorMybatis4.java",
+    "class_name": "EvaluatorMybatis4",
+    "package": "mybatis.v3",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v3/DispatcherMybatis5.java",
+    "class_name": "DispatcherMybatis5",
+    "package": "mybatis.v3",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v2/ResolverMybatis6.java",
+    "class_name": "ResolverMybatis6",
+    "package": "mybatis.v2",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v3/EngineMybatis7.java",
+    "class_name": "EngineMybatis7",
+    "package": "mybatis.v3",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v3/EvaluatorMybatis8.java",
+    "class_name": "EvaluatorMybatis8",
+    "package": "mybatis.v3",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v3/ConverterMybatis9.java",
+    "class_name": "ConverterMybatis9",
+    "package": "mybatis.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v2/FactoryMybatis10.java",
+    "class_name": "FactoryMybatis10",
+    "package": "mybatis.v2",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v3/SchedulerMybatis11.java",
+    "class_name": "SchedulerMybatis11",
+    "package": "mybatis.v3",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v2/FactoryMybatis12.java",
+    "class_name": "FactoryMybatis12",
+    "package": "mybatis.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v2/ManagerMybatis13.java",
+    "class_name": "ManagerMybatis13",
+    "package": "mybatis.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v2/ManagerMybatis14.java",
+    "class_name": "ManagerMybatis14",
+    "package": "mybatis.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v3/HandlerMybatis15.java",
+    "class_name": "HandlerMybatis15",
+    "package": "mybatis.v3",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "mybatis-sim",
+    "file_path": "/home/claude/code_smell_project/projects/mybatis-sim/src/main/java/mybatis/v3/AnalyzerMybatis16.java",
+    "class_name": "AnalyzerMybatis16",
+    "package": "mybatis.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "hibernate-sim",
+    "file_path": "/home/claude/code_smell_project/projects/hibernate-sim/src/main/java/hibernate/v3/SchedulerHibernate0.java",
+    "class_name": "SchedulerHibernate0",
+    "package": "hibernate.v3",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "hibernate-sim",
+    "file_path": "/home/claude/code_smell_project/projects/hibernate-sim/src/main/java/hibernate/v3/ConverterHibernate1.java",
+    "class_name": "ConverterHibernate1",
+    "package": "hibernate.v3",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "hibernate-sim",
+    "file_path": "/home/claude/code_smell_project/projects/hibernate-sim/src/main/java/hibernate/v1/ResolverHibernate2.java",
+    "class_name": "ResolverHibernate2",
+    "package": "hibernate.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "hibernate-sim",
+    "file_path": "/home/claude/code_smell_project/projects/hibernate-sim/src/main/java/hibernate/v3/CalculatorHibernate3.java",
+    "class_name": "CalculatorHibernate3",
+    "package": "hibernate.v3",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "hibernate-sim",
+    "file_path": "/home/claude/code_smell_project/projects/hibernate-sim/src/main/java/hibernate/v1/FactoryHibernate4.java",
+    "class_name": "FactoryHibernate4",
+    "package": "hibernate.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "hibernate-sim",
+    "file_path": "/home/claude/code_smell_project/projects/hibernate-sim/src/main/java/hibernate/v3/ValidatorHibernate5.java",
+    "class_name": "ValidatorHibernate5",
+    "package": "hibernate.v3",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "hibernate-sim",
+    "file_path": "/home/claude/code_smell_project/projects/hibernate-sim/src/main/java/hibernate/v3/FormatterHibernate6.java",
+    "class_name": "FormatterHibernate6",
+    "package": "hibernate.v3",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "hibernate-sim",
+    "file_path": "/home/claude/code_smell_project/projects/hibernate-sim/src/main/java/hibernate/v2/ConverterHibernate7.java",
+    "class_name": "ConverterHibernate7",
+    "package": "hibernate.v2",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "hibernate-sim",
+    "file_path": "/home/claude/code_smell_project/projects/hibernate-sim/src/main/java/hibernate/v3/ExecutorHibernate8.java",
+    "class_name": "ExecutorHibernate8",
+    "package": "hibernate.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "hibernate-sim",
+    "file_path": "/home/claude/code_smell_project/projects/hibernate-sim/src/main/java/hibernate/v3/ResolverHibernate9.java",
+    "class_name": "ResolverHibernate9",
+    "package": "hibernate.v3",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "hibernate-sim",
+    "file_path": "/home/claude/code_smell_project/projects/hibernate-sim/src/main/java/hibernate/v2/OrchestratorHibernate10.java",
+    "class_name": "OrchestratorHibernate10",
+    "package": "hibernate.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "hibernate-sim",
+    "file_path": "/home/claude/code_smell_project/projects/hibernate-sim/src/main/java/hibernate/v3/ManagerHibernate11.java",
+    "class_name": "ManagerHibernate11",
+    "package": "hibernate.v3",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "hibernate-sim",
+    "file_path": "/home/claude/code_smell_project/projects/hibernate-sim/src/main/java/hibernate/v3/FactoryHibernate12.java",
+    "class_name": "FactoryHibernate12",
+    "package": "hibernate.v3",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v1/FactoryMaven0.java",
+    "class_name": "FactoryMaven0",
+    "package": "maven.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v2/OrchestratorMaven1.java",
+    "class_name": "OrchestratorMaven1",
+    "package": "maven.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v3/ControllerMaven2.java",
+    "class_name": "ControllerMaven2",
+    "package": "maven.v3",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v3/HandlerMaven3.java",
+    "class_name": "HandlerMaven3",
+    "package": "maven.v3",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v3/ApplicationMaven4.java",
+    "class_name": "ApplicationMaven4",
+    "package": "maven.v3",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v1/ExecutorMaven5.java",
+    "class_name": "ExecutorMaven5",
+    "package": "maven.v1",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v1/ManagerMaven6.java",
+    "class_name": "ManagerMaven6",
+    "package": "maven.v1",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v2/SchedulerMaven7.java",
+    "class_name": "SchedulerMaven7",
+    "package": "maven.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v3/RegistryMaven8.java",
+    "class_name": "RegistryMaven8",
+    "package": "maven.v3",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v2/ResolverMaven9.java",
+    "class_name": "ResolverMaven9",
+    "package": "maven.v2",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v1/DispatcherMaven10.java",
+    "class_name": "DispatcherMaven10",
+    "package": "maven.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v3/FormatterMaven11.java",
+    "class_name": "FormatterMaven11",
+    "package": "maven.v3",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v2/BuilderMaven12.java",
+    "class_name": "BuilderMaven12",
+    "package": "maven.v2",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v1/ExecutorMaven13.java",
+    "class_name": "ExecutorMaven13",
+    "package": "maven.v1",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v1/AdapterMaven14.java",
+    "class_name": "AdapterMaven14",
+    "package": "maven.v1",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v3/ValidatorMaven15.java",
+    "class_name": "ValidatorMaven15",
+    "package": "maven.v3",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "maven-sim",
+    "file_path": "/home/claude/code_smell_project/projects/maven-sim/src/main/java/maven/v1/ServiceMaven16.java",
+    "class_name": "ServiceMaven16",
+    "package": "maven.v1",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v3/CalculatorLog4J0.java",
+    "class_name": "CalculatorLog4J0",
+    "package": "log4j.v3",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v3/ApplicationLog4J1.java",
+    "class_name": "ApplicationLog4J1",
+    "package": "log4j.v3",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v3/ServiceLog4J2.java",
+    "class_name": "ServiceLog4J2",
+    "package": "log4j.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v1/AdapterLog4J3.java",
+    "class_name": "AdapterLog4J3",
+    "package": "log4j.v1",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v3/ManagerLog4J4.java",
+    "class_name": "ManagerLog4J4",
+    "package": "log4j.v3",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v3/OrchestratorLog4J5.java",
+    "class_name": "OrchestratorLog4J5",
+    "package": "log4j.v3",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v1/FactoryLog4J6.java",
+    "class_name": "FactoryLog4J6",
+    "package": "log4j.v1",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v3/DispatcherLog4J7.java",
+    "class_name": "DispatcherLog4J7",
+    "package": "log4j.v3",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v1/EngineLog4J8.java",
+    "class_name": "EngineLog4J8",
+    "package": "log4j.v1",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v1/CalculatorLog4J9.java",
+    "class_name": "CalculatorLog4J9",
+    "package": "log4j.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v2/OrchestratorLog4J10.java",
+    "class_name": "OrchestratorLog4J10",
+    "package": "log4j.v2",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v2/ApplicationLog4J11.java",
+    "class_name": "ApplicationLog4J11",
+    "package": "log4j.v2",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v3/ConverterLog4J12.java",
+    "class_name": "ConverterLog4J12",
+    "package": "log4j.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v3/FactoryLog4J13.java",
+    "class_name": "FactoryLog4J13",
+    "package": "log4j.v3",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v2/ServiceLog4J14.java",
+    "class_name": "ServiceLog4J14",
+    "package": "log4j.v2",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v3/DispatcherLog4J15.java",
+    "class_name": "DispatcherLog4J15",
+    "package": "log4j.v3",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v3/EvaluatorLog4J16.java",
+    "class_name": "EvaluatorLog4J16",
+    "package": "log4j.v3",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "log4j-sim",
+    "file_path": "/home/claude/code_smell_project/projects/log4j-sim/src/main/java/log4j/v3/EngineLog4J17.java",
+    "class_name": "EngineLog4J17",
+    "package": "log4j.v3",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v3/FactoryTomcat0.java",
+    "class_name": "FactoryTomcat0",
+    "package": "tomcat.v3",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v1/SchedulerTomcat1.java",
+    "class_name": "SchedulerTomcat1",
+    "package": "tomcat.v1",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v2/ApplicationTomcat2.java",
+    "class_name": "ApplicationTomcat2",
+    "package": "tomcat.v2",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v1/ManagerTomcat3.java",
+    "class_name": "ManagerTomcat3",
+    "package": "tomcat.v1",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v2/FormatterTomcat4.java",
+    "class_name": "FormatterTomcat4",
+    "package": "tomcat.v2",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v1/AnalyzerTomcat5.java",
+    "class_name": "AnalyzerTomcat5",
+    "package": "tomcat.v1",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v1/ExecutorTomcat6.java",
+    "class_name": "ExecutorTomcat6",
+    "package": "tomcat.v1",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v1/HandlerTomcat7.java",
+    "class_name": "HandlerTomcat7",
+    "package": "tomcat.v1",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v1/OrchestratorTomcat8.java",
+    "class_name": "OrchestratorTomcat8",
+    "package": "tomcat.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v1/RegistryTomcat9.java",
+    "class_name": "RegistryTomcat9",
+    "package": "tomcat.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v2/ApplicationTomcat10.java",
+    "class_name": "ApplicationTomcat10",
+    "package": "tomcat.v2",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v3/HandlerTomcat11.java",
+    "class_name": "HandlerTomcat11",
+    "package": "tomcat.v3",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v1/AnalyzerTomcat12.java",
+    "class_name": "AnalyzerTomcat12",
+    "package": "tomcat.v1",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v2/TransformerTomcat13.java",
+    "class_name": "TransformerTomcat13",
+    "package": "tomcat.v2",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v1/ProcessorTomcat14.java",
+    "class_name": "ProcessorTomcat14",
+    "package": "tomcat.v1",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "tomcat-sim",
+    "file_path": "/home/claude/code_smell_project/projects/tomcat-sim/src/main/java/tomcat/v1/OrchestratorTomcat15.java",
+    "class_name": "OrchestratorTomcat15",
+    "package": "tomcat.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "bc-java-sim",
+    "file_path": "/home/claude/code_smell_project/projects/bc-java-sim/src/main/java/bc/java/v2/ResolverBcjava0.java",
+    "class_name": "ResolverBcjava0",
+    "package": "bc.java.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "bc-java-sim",
+    "file_path": "/home/claude/code_smell_project/projects/bc-java-sim/src/main/java/bc/java/v1/FormatterBcjava1.java",
+    "class_name": "FormatterBcjava1",
+    "package": "bc.java.v1",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "bc-java-sim",
+    "file_path": "/home/claude/code_smell_project/projects/bc-java-sim/src/main/java/bc/java/v2/ManagerBcjava2.java",
+    "class_name": "ManagerBcjava2",
+    "package": "bc.java.v2",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "bc-java-sim",
+    "file_path": "/home/claude/code_smell_project/projects/bc-java-sim/src/main/java/bc/java/v1/ValidatorBcjava3.java",
+    "class_name": "ValidatorBcjava3",
+    "package": "bc.java.v1",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "bc-java-sim",
+    "file_path": "/home/claude/code_smell_project/projects/bc-java-sim/src/main/java/bc/java/v1/ParserBcjava4.java",
+    "class_name": "ParserBcjava4",
+    "package": "bc.java.v1",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "bc-java-sim",
+    "file_path": "/home/claude/code_smell_project/projects/bc-java-sim/src/main/java/bc/java/v2/SchedulerBcjava5.java",
+    "class_name": "SchedulerBcjava5",
+    "package": "bc.java.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "bc-java-sim",
+    "file_path": "/home/claude/code_smell_project/projects/bc-java-sim/src/main/java/bc/java/v3/ControllerBcjava6.java",
+    "class_name": "ControllerBcjava6",
+    "package": "bc.java.v3",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "bc-java-sim",
+    "file_path": "/home/claude/code_smell_project/projects/bc-java-sim/src/main/java/bc/java/v1/ParserBcjava7.java",
+    "class_name": "ParserBcjava7",
+    "package": "bc.java.v1",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "bc-java-sim",
+    "file_path": "/home/claude/code_smell_project/projects/bc-java-sim/src/main/java/bc/java/v1/SchedulerBcjava8.java",
+    "class_name": "SchedulerBcjava8",
+    "package": "bc.java.v1",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "bc-java-sim",
+    "file_path": "/home/claude/code_smell_project/projects/bc-java-sim/src/main/java/bc/java/v3/OrchestratorBcjava9.java",
+    "class_name": "OrchestratorBcjava9",
+    "package": "bc.java.v3",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "bc-java-sim",
+    "file_path": "/home/claude/code_smell_project/projects/bc-java-sim/src/main/java/bc/java/v2/ServiceBcjava10.java",
+    "class_name": "ServiceBcjava10",
+    "package": "bc.java.v2",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "bc-java-sim",
+    "file_path": "/home/claude/code_smell_project/projects/bc-java-sim/src/main/java/bc/java/v3/CoordinatorBcjava11.java",
+    "class_name": "CoordinatorBcjava11",
+    "package": "bc.java.v3",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "bc-java-sim",
+    "file_path": "/home/claude/code_smell_project/projects/bc-java-sim/src/main/java/bc/java/v3/ApplicationBcjava12.java",
+    "class_name": "ApplicationBcjava12",
+    "package": "bc.java.v3",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "bc-java-sim",
+    "file_path": "/home/claude/code_smell_project/projects/bc-java-sim/src/main/java/bc/java/v3/ServiceBcjava13.java",
+    "class_name": "ServiceBcjava13",
+    "package": "bc.java.v3",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "bc-java-sim",
+    "file_path": "/home/claude/code_smell_project/projects/bc-java-sim/src/main/java/bc/java/v3/EngineBcjava14.java",
+    "class_name": "EngineBcjava14",
+    "package": "bc.java.v3",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "commons-col-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-col-sim/src/main/java/commons/col/v3/RegistryCommonscol0.java",
+    "class_name": "RegistryCommonscol0",
+    "package": "commons.col.v3",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "commons-col-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-col-sim/src/main/java/commons/col/v2/ApplicationCommonscol1.java",
+    "class_name": "ApplicationCommonscol1",
+    "package": "commons.col.v2",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "commons-col-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-col-sim/src/main/java/commons/col/v2/ControllerCommonscol2.java",
+    "class_name": "ControllerCommonscol2",
+    "package": "commons.col.v2",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "commons-col-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-col-sim/src/main/java/commons/col/v2/AdapterCommonscol3.java",
+    "class_name": "AdapterCommonscol3",
+    "package": "commons.col.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "commons-col-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-col-sim/src/main/java/commons/col/v2/ValidatorCommonscol4.java",
+    "class_name": "ValidatorCommonscol4",
+    "package": "commons.col.v2",
+    "true_smell": "Clean"
+  },
+  {
+    "project": "commons-col-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-col-sim/src/main/java/commons/col/v1/ProcessorCommonscol5.java",
+    "class_name": "ProcessorCommonscol5",
+    "package": "commons.col.v1",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "commons-col-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-col-sim/src/main/java/commons/col/v3/ConverterCommonscol6.java",
+    "class_name": "ConverterCommonscol6",
+    "package": "commons.col.v3",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "commons-col-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-col-sim/src/main/java/commons/col/v2/EngineCommonscol7.java",
+    "class_name": "EngineCommonscol7",
+    "package": "commons.col.v2",
+    "true_smell": "FeatureEnvy"
+  },
+  {
+    "project": "commons-col-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-col-sim/src/main/java/commons/col/v1/RegistryCommonscol8.java",
+    "class_name": "RegistryCommonscol8",
+    "package": "commons.col.v1",
+    "true_smell": "LongMethod"
+  },
+  {
+    "project": "commons-col-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-col-sim/src/main/java/commons/col/v2/OrchestratorCommonscol9.java",
+    "class_name": "OrchestratorCommonscol9",
+    "package": "commons.col.v2",
+    "true_smell": "DeadCode"
+  },
+  {
+    "project": "commons-col-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-col-sim/src/main/java/commons/col/v3/ExecutorCommonscol10.java",
+    "class_name": "ExecutorCommonscol10",
+    "package": "commons.col.v3",
+    "true_smell": "DataClass"
+  },
+  {
+    "project": "commons-col-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-col-sim/src/main/java/commons/col/v2/BuilderCommonscol11.java",
+    "class_name": "BuilderCommonscol11",
+    "package": "commons.col.v2",
+    "true_smell": "GodClass"
+  },
+  {
+    "project": "commons-col-sim",
+    "file_path": "/home/claude/code_smell_project/projects/commons-col-sim/src/main/java/commons/col/v2/CoordinatorCommonscol12.java",
+    "class_name": "CoordinatorCommonscol12",
+    "package": "commons.col.v2",
+    "true_smell": "Clean"
+  }
+]

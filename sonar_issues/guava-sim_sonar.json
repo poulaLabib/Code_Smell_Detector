@@ -1,0 +1,104 @@
+{
+  "total": 9,
+  "issues": [
+    {
+      "key": "guava-sim:src\\main\\java\\guava\\v1\\ApplicationGuava9.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'ApplicationGuava9' has 5 private methods out of 6 total",
+      "smell_label": "DeadCode",
+      "component": "guava-sim:src\\main\\java\\guava\\v1\\ApplicationGuava9.java",
+      "class_name": "ApplicationGuava9",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\guava-sim\\src\\main\\java\\guava\\v1\\ApplicationGuava9.java"
+    },
+    {
+      "key": "guava-sim:src\\main\\java\\guava\\v1\\BuilderGuava2.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'BuilderGuava2' has ATFD=9, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "guava-sim:src\\main\\java\\guava\\v1\\BuilderGuava2.java",
+      "class_name": "BuilderGuava2",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\guava-sim\\src\\main\\java\\guava\\v1\\BuilderGuava2.java"
+    },
+    {
+      "key": "guava-sim:src\\main\\java\\guava\\v1\\HandlerGuava13.java:java:S2095",
+      "rule": "java:S2095",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "GodClass: class 'HandlerGuava13' has WMC=22, LOC=210, FIELDS=24",
+      "smell_label": "GodClass",
+      "component": "guava-sim:src\\main\\java\\guava\\v1\\HandlerGuava13.java",
+      "class_name": "HandlerGuava13",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\guava-sim\\src\\main\\java\\guava\\v1\\HandlerGuava13.java"
+    },
+    {
+      "key": "guava-sim:src\\main\\java\\guava\\v1\\ParserGuava4.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'ParserGuava4' has ATFD=10, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "guava-sim:src\\main\\java\\guava\\v1\\ParserGuava4.java",
+      "class_name": "ParserGuava4",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\guava-sim\\src\\main\\java\\guava\\v1\\ParserGuava4.java"
+    },
+    {
+      "key": "guava-sim:src\\main\\java\\guava\\v2\\ConverterGuava3.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'ConverterGuava3' has ATFD=13, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "guava-sim:src\\main\\java\\guava\\v2\\ConverterGuava3.java",
+      "class_name": "ConverterGuava3",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\guava-sim\\src\\main\\java\\guava\\v2\\ConverterGuava3.java"
+    },
+    {
+      "key": "guava-sim:src\\main\\java\\guava\\v2\\ExecutorGuava10.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'ExecutorGuava10' has 8 fields but only trivial methods (WMC=16)",
+      "smell_label": "DataClass",
+      "component": "guava-sim:src\\main\\java\\guava\\v2\\ExecutorGuava10.java",
+      "class_name": "ExecutorGuava10",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\guava-sim\\src\\main\\java\\guava\\v2\\ExecutorGuava10.java"
+    },
+    {
+      "key": "guava-sim:src\\main\\java\\guava\\v2\\ManagerGuava12.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'ManagerGuava12' has 12 fields but only trivial methods (WMC=24)",
+      "smell_label": "DataClass",
+      "component": "guava-sim:src\\main\\java\\guava\\v2\\ManagerGuava12.java",
+      "class_name": "ManagerGuava12",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\guava-sim\\src\\main\\java\\guava\\v2\\ManagerGuava12.java"
+    },
+    {
+      "key": "guava-sim:src\\main\\java\\guava\\v3\\BuilderGuava5.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'BuilderGuava5' has 8 fields but only trivial methods (WMC=16)",
+      "smell_label": "DataClass",
+      "component": "guava-sim:src\\main\\java\\guava\\v3\\BuilderGuava5.java",
+      "class_name": "BuilderGuava5",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\guava-sim\\src\\main\\java\\guava\\v3\\BuilderGuava5.java"
+    },
+    {
+      "key": "guava-sim:src\\main\\java\\guava\\v3\\RegistryGuava8.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'RegistryGuava8' has 70 lines",
+      "smell_label": "LongMethod",
+      "component": "guava-sim:src\\main\\java\\guava\\v3\\RegistryGuava8.java",
+      "class_name": "RegistryGuava8",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\guava-sim\\src\\main\\java\\guava\\v3\\RegistryGuava8.java"
+    }
+  ]
+}

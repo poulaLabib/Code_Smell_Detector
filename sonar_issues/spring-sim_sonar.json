@@ -1,0 +1,137 @@
+{
+  "total": 12,
+  "issues": [
+    {
+      "key": "spring-sim:src\\main\\java\\spring\\v1\\AdapterSpring15.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'AdapterSpring15' has 8 fields but only trivial methods (WMC=16)",
+      "smell_label": "DataClass",
+      "component": "spring-sim:src\\main\\java\\spring\\v1\\AdapterSpring15.java",
+      "class_name": "AdapterSpring15",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\spring-sim\\src\\main\\java\\spring\\v1\\AdapterSpring15.java"
+    },
+    {
+      "key": "spring-sim:src\\main\\java\\spring\\v1\\CalculatorSpring9.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'CalculatorSpring9' has 81 lines",
+      "smell_label": "LongMethod",
+      "component": "spring-sim:src\\main\\java\\spring\\v1\\CalculatorSpring9.java",
+      "class_name": "CalculatorSpring9",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\spring-sim\\src\\main\\java\\spring\\v1\\CalculatorSpring9.java"
+    },
+    {
+      "key": "spring-sim:src\\main\\java\\spring\\v1\\ControllerSpring7.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'ControllerSpring7' has 4 private methods out of 5 total",
+      "smell_label": "DeadCode",
+      "component": "spring-sim:src\\main\\java\\spring\\v1\\ControllerSpring7.java",
+      "class_name": "ControllerSpring7",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\spring-sim\\src\\main\\java\\spring\\v1\\ControllerSpring7.java"
+    },
+    {
+      "key": "spring-sim:src\\main\\java\\spring\\v1\\DispatcherSpring10.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'DispatcherSpring10' has ATFD=12, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "spring-sim:src\\main\\java\\spring\\v1\\DispatcherSpring10.java",
+      "class_name": "DispatcherSpring10",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\spring-sim\\src\\main\\java\\spring\\v1\\DispatcherSpring10.java"
+    },
+    {
+      "key": "spring-sim:src\\main\\java\\spring\\v1\\ServiceSpring4.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'ServiceSpring4' has 4 private methods out of 5 total",
+      "smell_label": "DeadCode",
+      "component": "spring-sim:src\\main\\java\\spring\\v1\\ServiceSpring4.java",
+      "class_name": "ServiceSpring4",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\spring-sim\\src\\main\\java\\spring\\v1\\ServiceSpring4.java"
+    },
+    {
+      "key": "spring-sim:src\\main\\java\\spring\\v2\\ExecutorSpring1.java:java:S2095",
+      "rule": "java:S2095",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "GodClass: class 'ExecutorSpring1' has WMC=21, LOC=197, FIELDS=28",
+      "smell_label": "GodClass",
+      "component": "spring-sim:src\\main\\java\\spring\\v2\\ExecutorSpring1.java",
+      "class_name": "ExecutorSpring1",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\spring-sim\\src\\main\\java\\spring\\v2\\ExecutorSpring1.java"
+    },
+    {
+      "key": "spring-sim:src\\main\\java\\spring\\v2\\FormatterSpring8.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'FormatterSpring8' has 10 fields but only trivial methods (WMC=20)",
+      "smell_label": "DataClass",
+      "component": "spring-sim:src\\main\\java\\spring\\v2\\FormatterSpring8.java",
+      "class_name": "FormatterSpring8",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\spring-sim\\src\\main\\java\\spring\\v2\\FormatterSpring8.java"
+    },
+    {
+      "key": "spring-sim:src\\main\\java\\spring\\v2\\ResolverSpring3.java:java:S2095",
+      "rule": "java:S2095",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "GodClass: class 'ResolverSpring3' has WMC=19, LOC=182, FIELDS=27",
+      "smell_label": "GodClass",
+      "component": "spring-sim:src\\main\\java\\spring\\v2\\ResolverSpring3.java",
+      "class_name": "ResolverSpring3",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\spring-sim\\src\\main\\java\\spring\\v2\\ResolverSpring3.java"
+    },
+    {
+      "key": "spring-sim:src\\main\\java\\spring\\v3\\FactorySpring16.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'FactorySpring16' has 6 private methods out of 7 total",
+      "smell_label": "DeadCode",
+      "component": "spring-sim:src\\main\\java\\spring\\v3\\FactorySpring16.java",
+      "class_name": "FactorySpring16",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\spring-sim\\src\\main\\java\\spring\\v3\\FactorySpring16.java"
+    },
+    {
+      "key": "spring-sim:src\\main\\java\\spring\\v3\\FormatterSpring6.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'FormatterSpring6' has 3 private methods out of 4 total",
+      "smell_label": "DeadCode",
+      "component": "spring-sim:src\\main\\java\\spring\\v3\\FormatterSpring6.java",
+      "class_name": "FormatterSpring6",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\spring-sim\\src\\main\\java\\spring\\v3\\FormatterSpring6.java"
+    },
+    {
+      "key": "spring-sim:src\\main\\java\\spring\\v3\\ManagerSpring2.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'ManagerSpring2' has 71 lines",
+      "smell_label": "LongMethod",
+      "component": "spring-sim:src\\main\\java\\spring\\v3\\ManagerSpring2.java",
+      "class_name": "ManagerSpring2",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\spring-sim\\src\\main\\java\\spring\\v3\\ManagerSpring2.java"
+    },
+    {
+      "key": "spring-sim:src\\main\\java\\spring\\v3\\ResolverSpring5.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'ResolverSpring5' has 9 fields but only trivial methods (WMC=18)",
+      "smell_label": "DataClass",
+      "component": "spring-sim:src\\main\\java\\spring\\v3\\ResolverSpring5.java",
+      "class_name": "ResolverSpring5",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\spring-sim\\src\\main\\java\\spring\\v3\\ResolverSpring5.java"
+    }
+  ]
+}

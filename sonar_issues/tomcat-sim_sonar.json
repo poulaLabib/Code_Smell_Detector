@@ -1,0 +1,148 @@
+{
+  "total": 13,
+  "issues": [
+    {
+      "key": "tomcat-sim:src\\main\\java\\tomcat\\v1\\AnalyzerTomcat12.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'AnalyzerTomcat12' has 80 lines",
+      "smell_label": "LongMethod",
+      "component": "tomcat-sim:src\\main\\java\\tomcat\\v1\\AnalyzerTomcat12.java",
+      "class_name": "AnalyzerTomcat12",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\tomcat-sim\\src\\main\\java\\tomcat\\v1\\AnalyzerTomcat12.java"
+    },
+    {
+      "key": "tomcat-sim:src\\main\\java\\tomcat\\v1\\AnalyzerTomcat5.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'AnalyzerTomcat5' has ATFD=11, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "tomcat-sim:src\\main\\java\\tomcat\\v1\\AnalyzerTomcat5.java",
+      "class_name": "AnalyzerTomcat5",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\tomcat-sim\\src\\main\\java\\tomcat\\v1\\AnalyzerTomcat5.java"
+    },
+    {
+      "key": "tomcat-sim:src\\main\\java\\tomcat\\v1\\ExecutorTomcat6.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'ExecutorTomcat6' has 64 lines",
+      "smell_label": "LongMethod",
+      "component": "tomcat-sim:src\\main\\java\\tomcat\\v1\\ExecutorTomcat6.java",
+      "class_name": "ExecutorTomcat6",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\tomcat-sim\\src\\main\\java\\tomcat\\v1\\ExecutorTomcat6.java"
+    },
+    {
+      "key": "tomcat-sim:src\\main\\java\\tomcat\\v1\\HandlerTomcat7.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'HandlerTomcat7' has 78 lines",
+      "smell_label": "LongMethod",
+      "component": "tomcat-sim:src\\main\\java\\tomcat\\v1\\HandlerTomcat7.java",
+      "class_name": "HandlerTomcat7",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\tomcat-sim\\src\\main\\java\\tomcat\\v1\\HandlerTomcat7.java"
+    },
+    {
+      "key": "tomcat-sim:src\\main\\java\\tomcat\\v1\\ManagerTomcat3.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'ManagerTomcat3' has ATFD=9, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "tomcat-sim:src\\main\\java\\tomcat\\v1\\ManagerTomcat3.java",
+      "class_name": "ManagerTomcat3",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\tomcat-sim\\src\\main\\java\\tomcat\\v1\\ManagerTomcat3.java"
+    },
+    {
+      "key": "tomcat-sim:src\\main\\java\\tomcat\\v1\\ProcessorTomcat14.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'ProcessorTomcat14' has ATFD=12, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "tomcat-sim:src\\main\\java\\tomcat\\v1\\ProcessorTomcat14.java",
+      "class_name": "ProcessorTomcat14",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\tomcat-sim\\src\\main\\java\\tomcat\\v1\\ProcessorTomcat14.java"
+    },
+    {
+      "key": "tomcat-sim:src\\main\\java\\tomcat\\v1\\SchedulerTomcat1.java:java:S1604",
+      "rule": "java:S1604",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DeadCode: 'SchedulerTomcat1' has 6 private methods out of 7 total",
+      "smell_label": "DeadCode",
+      "component": "tomcat-sim:src\\main\\java\\tomcat\\v1\\SchedulerTomcat1.java",
+      "class_name": "SchedulerTomcat1",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\tomcat-sim\\src\\main\\java\\tomcat\\v1\\SchedulerTomcat1.java"
+    },
+    {
+      "key": "tomcat-sim:src\\main\\java\\tomcat\\v2\\ApplicationTomcat10.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'ApplicationTomcat10' has ATFD=9, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "tomcat-sim:src\\main\\java\\tomcat\\v2\\ApplicationTomcat10.java",
+      "class_name": "ApplicationTomcat10",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\tomcat-sim\\src\\main\\java\\tomcat\\v2\\ApplicationTomcat10.java"
+    },
+    {
+      "key": "tomcat-sim:src\\main\\java\\tomcat\\v2\\ApplicationTomcat2.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'ApplicationTomcat2' has 61 lines",
+      "smell_label": "LongMethod",
+      "component": "tomcat-sim:src\\main\\java\\tomcat\\v2\\ApplicationTomcat2.java",
+      "class_name": "ApplicationTomcat2",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\tomcat-sim\\src\\main\\java\\tomcat\\v2\\ApplicationTomcat2.java"
+    },
+    {
+      "key": "tomcat-sim:src\\main\\java\\tomcat\\v2\\FormatterTomcat4.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'FormatterTomcat4' has 12 fields but only trivial methods (WMC=24)",
+      "smell_label": "DataClass",
+      "component": "tomcat-sim:src\\main\\java\\tomcat\\v2\\FormatterTomcat4.java",
+      "class_name": "FormatterTomcat4",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\tomcat-sim\\src\\main\\java\\tomcat\\v2\\FormatterTomcat4.java"
+    },
+    {
+      "key": "tomcat-sim:src\\main\\java\\tomcat\\v2\\TransformerTomcat13.java:java:S1067",
+      "rule": "java:S1067",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "LongMethod: longest method in 'TransformerTomcat13' has 74 lines",
+      "smell_label": "LongMethod",
+      "component": "tomcat-sim:src\\main\\java\\tomcat\\v2\\TransformerTomcat13.java",
+      "class_name": "TransformerTomcat13",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\tomcat-sim\\src\\main\\java\\tomcat\\v2\\TransformerTomcat13.java"
+    },
+    {
+      "key": "tomcat-sim:src\\main\\java\\tomcat\\v3\\FactoryTomcat0.java:java:S2093",
+      "rule": "java:S2093",
+      "type": "CODE_SMELL",
+      "severity": "MINOR",
+      "text": "DataClass: 'FactoryTomcat0' has 11 fields but only trivial methods (WMC=22)",
+      "smell_label": "DataClass",
+      "component": "tomcat-sim:src\\main\\java\\tomcat\\v3\\FactoryTomcat0.java",
+      "class_name": "FactoryTomcat0",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\tomcat-sim\\src\\main\\java\\tomcat\\v3\\FactoryTomcat0.java"
+    },
+    {
+      "key": "tomcat-sim:src\\main\\java\\tomcat\\v3\\HandlerTomcat11.java:java:R1031",
+      "rule": "java:R1031",
+      "type": "CODE_SMELL",
+      "severity": "MAJOR",
+      "text": "FeatureEnvy: 'HandlerTomcat11' has ATFD=10, TCC=1, WMC=1",
+      "smell_label": "FeatureEnvy",
+      "component": "tomcat-sim:src\\main\\java\\tomcat\\v3\\HandlerTomcat11.java",
+      "class_name": "HandlerTomcat11",
+      "file_path": "C:\\Users\\Poula\\Downloads\\code_smell_project\\code_smell_project\\projects\\tomcat-sim\\src\\main\\java\\tomcat\\v3\\HandlerTomcat11.java"
+    }
+  ]
+}
